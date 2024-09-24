@@ -1,22 +1,40 @@
 {
-	"movies": [
+	"restaurants": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Name": "Prime BBQ",
+			"Location": "San Mateo, CA",
+			"Cuisine": "Chinese BBQ",
+			"Rating": "4.8"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Name": "Limón",
+			"Location": "Mountain View, CA",
+			"Cuisine": "Peruvian",
+			"Rating": "4.2"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Name": "Dumpling House",
+			"Location": "San Francisco, CA",
+			"Cuisine": "Chinese",
+			"Rating": "4.5"
+		},
+		{
+			"Name": "Mujiri",
+			"Location": "Oakland, CA",
+			"Cuisine": "Japanese",
+			"Rating": "4.7"
+		},
+		{
+			"Name": "Amazing Basil",
+			"Location": "Fremont, CA",
+			"Cuisine": "Vietnamese",
+			"Rating": "4.0"
+		},
+		{
+			"Name": "Chick & Tea",
+			"Location": "Sunnyvale, CA",
+			"Cuisine": "Taiwanese",
+			"Rating": "4.1"
 		}
 	]
 }
